@@ -1,4 +1,5 @@
-function Courses() {
+function Courses({courses}) {
+    console.log(courses);
     return <div></div>
 }
 
